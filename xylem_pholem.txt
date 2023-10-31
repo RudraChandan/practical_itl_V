@@ -1,0 +1,16 @@
+Mechanistic modelling of coupled phloem/xylem transport for L-systems: combining analytical and computational methods
+Alla N Seleznyova1 and Jim Hanan2
+Author information Article notes Copyright and License information PMC Disclaimer
+See "ContentSnapshots" in volume 121 on page i.
+Associated Data
+Supplementary Materials
+Go to:
+Abstract
+Background and Aims
+Transport of carbohydrates and water are essential aspects of plant function. The aim of this study was to develop and test the methods for mechanistic modelling of quasi-stationary coupled phloem/xylem transport in the context of functional–structural plant modelling.
+
+Methods
+The novelty of this approach is in combining analytical and computational methods. The plant structure is modelled at a metamer level with the internodes represented by conduit elements and the lateral organs represented by sources and sinks. Transport equations are solved analytically for each internode and then the solutions are adjusted and ‘sewn’ together using an iterative computational procedure taking into account concentration-dependent sinks and sources. The model is implemented in L-studio and uses the aspect-oriented modelling approach for phloem/xylem coupling.
+
+Key Results
+To our knowledge, this is the first transport model that provides continuous distributions of the system variables in a complex developing structure. The model takes into account non-linear dependence of phloem resistance and osmotic potential on the local carbohydrate concentration. The model solutions show excellent agreement with the existing results of other analytical and numerical models. These comparisons confirm the validity of the approximations made in the model. Combining analytical and computational methods made it possible to take into account continuous sink/source distribution within internodes without much increase in the complexity of the computational procedure, because the necessary changes in the model were mostly in the analytical part. The results emphasize sensitivity of phloem flux and lateral xylem flux to the presence of distributed sinks and sources along the transport system.
